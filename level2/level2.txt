@@ -1,0 +1,19 @@
+JavaScript - MA04 - Level 2
+
+1. The DOM is an abbreviation for Document Object Model. Is an interface for HTML that defines the structure of a document, how it is accessed and how its elements can be manipulated.
+
+2. 	- getElementById
+	- setAttribute
+	- createElement
+
+3. An asynchronous call is a thread that runs alongside the main one, so that. The asynchronous call returns immediately from the server. This can be used to update specific parts of page without the need to refresh the whole page.
+
+4. The sources tab is divided in 3 parts. The first (File Navigator) lets you see all the files that the page consists of. The second (Code Editor) is the workspace where you can read and edit the code of the chosen file. The third (Debugging) provides a set of tools to inspect the code: you can pause and resume code execution, step out, into or over a function call, and set customized breakpoints.
+
+5. A promise is an object used to register success or failure of asynchronous calls.
+
+6. API is short for Application Programming Interface. It is a way to serve data, and it specifies how the different software components interact.
+
+7. A JavaScript event is when JavaScript interacts with the HTML, for example through user actions like mouseclick or pressing a key.
+
+8. Event bubbling is one of the phases of execution of an event. In this phase, it runs from the target element (innermost) outwards to its parent elements checking for the same kind of event handlers as in the target element and executes them. 
